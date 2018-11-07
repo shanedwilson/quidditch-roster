@@ -22,22 +22,22 @@
   }
 }
 
-.team-button-gryffindor{
+.team-button-gryffindor {
   @extend %team-button;
   background-color: $gryffindor;
 }
 
-.team-button-slytherin{
+.team-button-slytherin {
   @extend %team-button;
   background-color: $slytherin;
 }
 
-.team-button-ravenclaw{
+.team-button-ravenclaw {
   @extend %team-button;
   background-color: $ravenclaw;
 }
 
-.team-button-hufflepuff{
+.team-button-hufflepuff {
   @extend %team-button;
   background-color: $hufflepuff;
 }
